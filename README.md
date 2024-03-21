@@ -1,13 +1,11 @@
 # Introduction
-
-[ ] Images
-[ ] Video
+A simple mobile app that tests how accurately you can match
+a color. It supports full color and greyscale mode.
+It gamifies this task and runs on Android, iOS and web.
 
 # Setup
 npm install
 npm  start
-
-
 
 # Upgrade expo:
 https://expo.dev/changelog/2024/01-18-sdk-50
