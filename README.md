@@ -1,6 +1,9 @@
 # Introduction
 
-This mobile application challenges users to test their accuracy in matching colors. It features both full color and greyscale modes, gamifying the task. The app is compatible with Android, iOS, and web platforms.
+A simple mobile application that challenges users to test their accuracy in matching colors. It features both color and greyscale modes.
+It incorporates very basic gamification to make it a bit more fun.
+
+The app is compatible with Android, iOS, and web .
 
 ## Availability
 
