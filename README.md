@@ -41,9 +41,6 @@ If authentication with the Apple Developer Portal fails, citing a maintenance ac
 
 1. Check the [Apple System Status](https://developer.apple.com/system-status/) for any ongoing maintenance activities.
 2. If the issue persists, forcefully reinstall the `eas-cli`:
-
-
-
-If it keeps occuring, use:
-npm install -g eas-cli --force
+3. If it keeps occuring, use:
+`npm install -g eas-cli --force`
 
