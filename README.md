@@ -10,7 +10,7 @@ This mobile application challenges users to test their accuracy in matching colo
 
 ## Screenshots
 
-<img src="assets/screenshots/screenshote1.png" alt="Color Matching Game - Full Color Mode" width="250"/>
+<img src="assets/screenshots/screenshot1.png" alt="Color Matching Game - Full Color Mode" width="250"/>
 *Full Color Mode Example*
 
 <img src="assets/screenshots/screenshot2.png" alt="Color Matching Game - Greyscale Mode" width="250"/>
