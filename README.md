@@ -18,9 +18,11 @@ This mobile application challenges users to test their accuracy in matching colo
 
 
 # Setup
+```
 npm install
-npm  start
 
+npm  start
+```
 
 # Tasks:
     [ ] hard mode with background contrasting
