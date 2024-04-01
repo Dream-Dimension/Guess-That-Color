@@ -1,24 +1,24 @@
 # Introduction
 
-A simple mobile app that tests how accurately you can match
-a color. It supports full color and greyscale mode.
-It gamifies this task and runs on Android, iOS and web.
+This mobile application challenges users to test their accuracy in matching colors. It features both full color and greyscale modes, gamifying the task. The app is compatible with Android, iOS, and web platforms.
 
-# Available on iOS/Android:
+## Availability
 
-iOS: https://apps.apple.com/us/app/guess-that-color/id6479181014
-Android: https://play.google.com/store/apps/details?id=com.jasonify.valuegame&hl=es_MX&gl=US
+- **iOS**: [Guess That Color on the App Store](https://apps.apple.com/us/app/guess-that-color/id6479181014)
+- **Android**: [Guess That Color on Google Play](https://play.google.com/store/apps/details?id=com.jasonify.valuegame&hl=es_MX&gl=US)
+
+
+## Screenshots
+
+![Color Matching Game - Full Color Mode](assets/screenshots/screenshot1.png)
+*Full Color Mode Example*
+
+![Color Matching Game - Greyscale Mode](assets/screenshots/screenshot2.png)
+*Greyscale Mode Example*
 
 # Setup
 npm install
 npm  start
-
-# Upgrade expo:
-https://expo.dev/changelog/2024/01-18-sdk-50
-npm install expo@^50.0.0
-npx expo install --fix
-npm install expo@latest
-https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/
 
 
 # Tasks:
@@ -29,13 +29,14 @@ https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/
         - investigate custom slider
 
 
-# Apple Errors:
+## Handling Apple Errors
 
-Authentication with Apple Developer Portal failed!
-Apple provided the following error info:
-Service not available because of maintenance activities, please try again after some time.
+If authentication with the Apple Developer Portal fails, citing a maintenance activity error, try the following solutions:
 
-https://developer.apple.com/system-status/
+1. Check the [Apple System Status](https://developer.apple.com/system-status/) for any ongoing maintenance activities.
+2. If the issue persists, forcefully reinstall the `eas-cli`:
+
+
 
 If it keeps occuring, use:
 npm install -g eas-cli --force
