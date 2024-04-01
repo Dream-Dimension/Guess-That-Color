@@ -10,11 +10,12 @@ This mobile application challenges users to test their accuracy in matching colo
 
 ## Screenshots
 
-![Color Matching Game - Full Color Mode](assets/screenshots/screenshot1.png)
+<img src="assets/screenshots/screenshote1.png" alt="Color Matching Game - Full Color Mode" width="250"/>
 *Full Color Mode Example*
 
-![Color Matching Game - Greyscale Mode](assets/screenshots/screenshot2.png)
+<img src="assets/screenshots/screenshot2.png" alt="Color Matching Game - Greyscale Mode" width="250"/>
 *Greyscale Mode Example*
+
 
 # Setup
 npm install
