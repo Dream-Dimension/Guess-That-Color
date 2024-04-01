@@ -1,7 +1,13 @@
 # Introduction
+
 A simple mobile app that tests how accurately you can match
 a color. It supports full color and greyscale mode.
 It gamifies this task and runs on Android, iOS and web.
+
+# Available on iOS/Android:
+
+iOS: https://apps.apple.com/us/app/guess-that-color/id6479181014
+Android: https://play.google.com/store/apps/details?id=com.jasonify.valuegame&hl=es_MX&gl=US
 
 # Setup
 npm install
