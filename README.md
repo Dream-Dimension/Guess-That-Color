@@ -10,7 +10,7 @@ The app is compatible with Android, iOS, and web .
 - **iOS**: [Guess That Color on the App Store](https://apps.apple.com/us/app/guess-that-color/id6479181014)
 - **Android**: [Guess That Color on Google Play](https://play.google.com/store/apps/details?id=com.jasonify.valuegame&hl=es_MX&gl=US)
 
-**Other DreamDimension Projects**: [DreamDimension.net](https://dreamdimension.net)
+**Other Dream Dimension Projects**: [DreamDimension.net](https://dreamdimension.net)
 
 ## Screenshots
 
