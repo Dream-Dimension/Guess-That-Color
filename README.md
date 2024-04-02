@@ -23,7 +23,7 @@ The app is compatible with Android, iOS, and web .
 
 
 ### Code Quality
-The code base is not particularly great but it's pretty small. It was mostly quickly hacked together to get a protototype finished.
+The code base is not particularly great but it's pretty small. It was quickly hacked together to get a protototype finished.
 # Setup
 ```
 npm install
