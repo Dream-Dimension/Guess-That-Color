@@ -27,7 +27,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "versionCode": 2,
-      "package": ""
+      "package": "com.jasonify.valuegame"
     },
     "web": {
       "favicon": "./assets/favicon.png"
