@@ -15,6 +15,7 @@ const TRIANGLE_WIDTH = 15;
 const STARTING_HEALTH = 10;
 
 export default function App() {
+  console.log('Bug fixes');
   const [health, setHealth] = useState(STARTING_HEALTH);
   const [grayscaleMode, setGrayscaleMode] = useState(true);
   const [guessedColor, setGuessedColor] = useState(hexRgb('#000'));
@@ -174,7 +175,7 @@ export default function App() {
       >
         <View style={styles.modal}>
           <Text style={styles.title}>Match That Color</Text>
-          <Text style={styles.headerText}>Select your difficulty level:</Text>
+          <Text style={styles.headerText}>Select your desired difficulty level:</Text>
           <Pressable 
             style={styles.button}
             onPress={() => {
